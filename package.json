@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "less-loader": "^5.0.0",
+    "mint-ui": "^2.2.13",
+    "sass-loader": "^7.1.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
